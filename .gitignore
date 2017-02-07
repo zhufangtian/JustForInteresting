@@ -10,3 +10,38 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# for idea maven git and so on...
+
+.gradle
+/local.properties
+.DS_Store
+/build
+/target
+.idea
+*.iml
+.project
+.classpath
+bin/
+target/
+classes/
+lib/
+.settings/
+.project/
+.classpath/
+.svn/
+*.log
+logs/
+out/
+*.iws
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.tar
+*.zip
+*.war
+*.ear
+*.MF
+.gitignore
